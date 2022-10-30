@@ -1,0 +1,6 @@
+ <Link to="/company">
+          <button>Company</button>
+        </Link>
+
+
+        import {Link} from 'react-router-dom'
